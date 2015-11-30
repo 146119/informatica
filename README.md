@@ -1,4 +1,5 @@
 # informatica
-informatica github trimester 2
+informatica github 
 Groep: Sam, Yoni en Erkan
 Turk doet aan Tüüteren
+bepalen
