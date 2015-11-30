@@ -1,3 +1,3 @@
 # informatica
-informatica github
-Tüüteren
+informatica github 
+Turk doet aan Tüüteren
