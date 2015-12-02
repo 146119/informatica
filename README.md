@@ -1,5 +1,4 @@
 # informatica
-<br>
 informatica github trimester 2
 <br>
 Groep: Sam, Yoni en Erkan
