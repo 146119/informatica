@@ -1,0 +1,77 @@
+@charset "UTF-8";
+#zoekwoorden {
+    margin-left : auto;
+    margin-right : 10%;
+    width : 100px;
+    background-color : #FFFFFF;
+    float: right;
+    //font-family: monospace;
+}
+body {
+    margin : 0;
+    padding : 0;
+    background-color : #FFFFFF;
+    font-family: Verdana,sans-serif;
+    text-align: center;
+}
+table, td {
+    border-collapse: collapse;
+    background-color:#FFFFFF ;
+    margin : auto;
+}
+td {
+    padding: 1px;
+    text-align: center;
+    font-size : 1.5em;
+    width: 31px;
+}
+table{
+    border: 2px solid black;
+    height: auto;
+    margin-left : auto;
+    float: left;
+    align: center;
+
+}
+#tabel { 
+    padding : 20px;
+    width : 80%;
+    height : auto;
+    background-color : #FFFFFF;
+    margin : auto;
+    margin-top: 25px;
+}
+div {
+    text-align: center;
+}
+td.blauw{
+    color: #F5A700;
+}
+#boven{
+    width: 100%;
+    height: 70px;
+    background-color : #F5A700;
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    box-shadow: 0px 3px 10px #888888;
+}
+#knoppen{
+    color: black;
+    border: 1px solid grey;
+    font-weight: normal;
+    width: 17%;
+    background-color: #c6c6c6;
+}
+#namen{
+    position:absolute;
+    bottom: 0;
+    right: 10;
+    color: #c6c6c6;
+}
+#copy{
+    position:absolute;
+    bottom: 0;
+    left: 10;
+    color: #c6c6c6;
+}
